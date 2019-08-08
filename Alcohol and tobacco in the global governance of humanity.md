@@ -1,11 +1,8 @@
 <div dir=rtl>
-<<<<<<< HEAD
 
 
 
-=======
- 
->>>>>>> 13bdd22cf6c26aa83f53ee4b0a736357e6842c6d
+
 # [الکل](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D9%84) و [دخانیات](https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84_%D8%AF%D8%AE%D8%A7%D9%86%DB%8C%D8%A7%D8%AA) در سیستم جهانی حکمرانی بشریت
 
 
