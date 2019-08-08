@@ -1,6 +1,8 @@
 # Alcohol-and-tobacco-in-the-global-governance-of-humanity
+
 <div dir=rtl>
-## الکل و دخانیات در سیستم جهانی حکمرانی بشریت
+
+##  الکل و دخانیات در سیستم جهانی حکمرانی بشریت
 <div dir=rtl>
 
 مبحثی درباره ضرر  الکل و دخانیات.
