@@ -20,4 +20,4 @@
 مطالب ترجمه‌شده و برگرفته شده از [Виктор Алексеевич Ефимов](http://lib.aldebaran.ru) است.
 
 
-[شروع به خواندن کنید] (Alcohol-and-tobacco-in-the-global-governance-of-humanity.md)
+[شروع به خواندن کنید] (https://github.com/elias8702/Alcohol-and-tobacco-in-the-global-governance-of-humanity/blob/master/Alcohol%20and%20tobacco%20in%20the%20global%20governance%20of%20humanity.md)
